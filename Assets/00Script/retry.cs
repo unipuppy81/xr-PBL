@@ -7,7 +7,7 @@ public class retry : MonoBehaviour
     public void SceneChange()
     {
 
-        MySceneManager.Instance.ChangeScene("StartScene");
+        MySceneManager.Instance.ChangeScene("MainScene");
 
     }
 

@@ -5,8 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/01Scenes/Use X.unity
+  - enabled: 0
+    path: Assets/01Scenes/New Folder/Use X.unity
     guid: 9b71f18d2b6afdb4bbd1c38ef895b1fa
   - enabled: 1
     path: Assets/01Scenes/MainScene.unity
@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01Scenes/Ending_7.unity
     guid: 155fdff26e8c3514bb5dbacc957b4d68
+  - enabled: 1
+    path: Assets/01Scenes/Scene_1.unity
+    guid: 7ffad42ed1d04104b88765be7e7bcb57
   m_configObjects: {}

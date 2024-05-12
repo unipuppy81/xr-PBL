@@ -6,7 +6,7 @@ public class home : MonoBehaviour
 {
     public void SceneChange()
     {
-        MySceneManager.Instance.ChangeScene("StartScene");
+        MySceneManager.Instance.ChangeScene("Scene_1");
 
     }
 
